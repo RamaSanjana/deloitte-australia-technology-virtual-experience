@@ -65,4 +65,4 @@ Successfully completed the Deloitte Australia Technology Job Simulation on **Jul
 This project was completed as part of the **Deloitte Australia Technology Job Simulation** hosted on **Forage**.
 
 ---
-**Author:** Sanjana R
+
